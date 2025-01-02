@@ -1,0 +1,17 @@
+{
+    "name": "github-repo-check",
+    "version": "1.0.0",
+    "description": "A bot to analyze GitHub repositories for security and code uniqueness.",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "discord.js": "^14.0.0",
+      "redis": "^4.0.0",
+      "axios": "^0.21.1",
+      "winston": "^3.3.3"
+    },
+    "author": "Aristide021",
+    "license": "ISC"
+  }
